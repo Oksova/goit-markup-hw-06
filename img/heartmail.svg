@@ -1,0 +1,33 @@
+<svg
+  height="20"
+  viewBox="0 0 16.933 16.933"
+  width="20"
+  xmlns="http://www.w3.org/2000/svg"
+><g
+    color="#000"
+    font-weight="400"
+    font-family="sans-serif"
+    paint-order="stroke fill markers"
+  ><path
+      d="M1.322 2.91a.265.265 0 00-.263.266v10.581a.265.265 0 00.263.266h14.29a.265.265 0 00.263-.266V12.49l-.53-.605v1.28l-4.984-3.702c.2-.245.39-.503.555-.77l-.365-.417c-.2.35-.464.704-.744 1.031-.636.742-1.194 1.191-1.34 1.313-.148-.123-.704-.577-1.34-1.32-.358-.419-.694-.884-.898-1.32-.205-.438-.27-.829-.159-1.132.125-.338.283-.456.481-.51.198-.053.463-.02.728.07.531.181 1.026.557 1.026.557l.164.128.162-.128s.498-.381 1.03-.564c.199-.068.397-.105.567-.096.056.003.11.01.159.024.197.054.353.173.476.517.09.252.058.564-.066.907l.391.447c.222-.479.337-.984.196-1.458l3.962-2.97v7.308l.529.606v-8.51a.265.265 0 00-.264-.265H4.754l.463.53h9.69l-3.76 2.818a1.166 1.166 0 00-.622-.44c-.353-.098-.713-.031-1.037.08-.558.191-.902.47-1.021.56-.12-.089-.461-.363-1.018-.552-.323-.11-.684-.174-1.037-.078-.234.063-.45.21-.62.433L2.026 3.439h2.486l-.463-.53zm.266.86L5.55 6.742c-.143.473-.027.98.198 1.46.205.439.506.865.827 1.258l-4.987 3.704zm5.331 6.091c.694.77 1.382 1.332 1.382 1.332l.166.137.168-.135s.687-.562 1.381-1.331l4.885 3.63H2.032z"
+      style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"
+      overflow="visible"
+    /><path
+      d="M2.027 3.44h12.88l-3.76 2.818a1.166 1.166 0 00-.622-.44c-.353-.098-.713-.031-1.037.08-.558.191-.902.47-1.021.56-.12-.09-.461-.363-1.018-.552-.323-.11-.684-.174-1.037-.078-.234.063-.45.21-.62.433zM1.588 3.77L5.55 6.742c-.143.473-.027.98.198 1.46.205.439.506.865.827 1.258l-4.987 3.704zM15.346 3.77v9.394L10.36 9.462c.32-.39.619-.815.823-1.252.225-.482.342-.991.2-1.469z"
+      style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"
+      overflow="visible"
+      fill="#64b5f6"
+      fill-opacity=".945"
+    /><path
+      d="M10.228 6.303c.056.003.11.011.159.025.197.054.353.173.476.517.111.31.045.705-.16 1.143-.205.438-.539.901-.896 1.318-.636.742-1.194 1.191-1.34 1.313-.148-.123-.704-.577-1.34-1.32-.358-.419-.694-.884-.898-1.32-.205-.438-.27-.829-.159-1.132.125-.338.283-.456.481-.51.198-.053.463-.02.728.07.531.181 1.026.557 1.026.557l.164.128.162-.128s.498-.381 1.03-.564c.199-.068.397-.105.567-.096z"
+      style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"
+      overflow="visible"
+      fill="#f50057"
+      fill-opacity=".945"
+    /><path
+      d="M6.92 9.861c.693.77 1.38 1.332 1.38 1.332l.167.137.168-.135s.687-.562 1.381-1.331l4.885 3.63H2.032z"
+      style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"
+      overflow="visible"
+      fill="#64b5f6"
+      fill-opacity=".945"
+    /></g></svg>
