@@ -57,7 +57,11 @@
           <br />
           для вашего бизнеса
         </h1>
-        <button type="" data-modal-open class="button">Заказать услугу</button>
+
+        <button data-modal-open type="" class="button" >Заказать услугу</button>
+      
+       
+
       </section>
 
       <!--Наши преимущества-->
@@ -390,6 +394,56 @@
           </ul>
         </div>
       </section>
+
+<div class="backdrop is-hidden" data-modal >
+  <div class="modal">
+    <button data-modal-close class="close-button"></button>
+    <form class="form" autocomplete="off" >
+      <p class="form-text">Оставьте свои данные,мы вам перезвоним</p>
+
+      <div class="form-field" >
+        <svg class="icon" width="18" height="18">
+          <use href="./img/symbol-defs.svg#icon-contacts"></use>
+        </svg>
+        <input type="text" name="name" id="name" class=" form-input" placeholder=" ">
+        <label for="name" class="form-label">Имя</label>
+      </div>
+
+      <div class="form-field">
+        <svg class="icon" width="18" height="18">
+          <use href="./img/symbol-defs.svg#icon-call"></use>
+        </svg>
+        <input type="tel" name="tel" id="tel" class="form-input" placeholder=" ">
+        <label for="tel" class="form-label">Телефон</label>
+      </div>
+
+      <div class="form-field">
+        <svg class="icon" width="18" height="18">
+          <use href="./img/symbol-defs.svg#icon-email"></use>
+        </svg>
+        <input type="email" name="email" id="email" class="form-input" placeholder=" ">
+        <label for="name" class="form-label">Почта</label>
+      </div>
+
+      <div class="form-field">
+        <textarea name="comment" rows="5" cols="45" class="form-comment" placeholder=" "></textarea>
+        <span class="comment">Комментарий</span>
+      </div>
+
+      <div class="form-field">
+        <label class="check-label">
+          <input class="checkbox" type="checkbox" value="agreement">
+          <span class="checkbox-icon"></span>
+          Соглашаюсь с рассылкой и принимаю
+          <a href="" class="check-link"> Условия договора</a>
+        </label>
+      </div>
+
+      <button class="submit-button" type="submit">Отправить</button>
+    </form>
+  </div>
+</div>
+
     </main>
 
     <!--Футер-->
@@ -467,5 +521,9 @@
         <p class="copyright">2020 | Developed by GoIT Students</p>
       </div>
     </footer>
+    <script src="./js/modal.js"></script>
+    <script src="./js/speaker.js"></script>
   </body>
 </html>
+
+
